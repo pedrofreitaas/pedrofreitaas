@@ -17,7 +17,7 @@ In here, I post the projects that have been working on, and their descriptions.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-freitas-9b530624b/)
 
-[![youtube](https://img.shields.io/badge/Youtube-0A66C2?style=for-the-badge&color=white&logo=youtube&logoColor=red)](https://www.linkedin.com/in/pedro-freitas-9b530624b/)
+[![youtube](https://img.shields.io/badge/Youtube-0A66C2?style=for-the-badge&color=white&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCGT1t-GkbGRFpS6VqNRj8Dg)
 
 
 
