@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**pedrofreitaas/pedrofreitaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My profile.
 
-Here are some ideas to get you started:
+```bash
+My name is Pedro Freitas and this is my github profile.
+```
+In here, I post the projects that have been working on, and their descriptions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Languages:
+
+![](https://img.shields.io/badge/-C++-white?logo=c%2B%2B&logoColor=purple&style=flat)
+
+![](https://img.shields.io/badge/-python-white?logo=python&logoColor=blue&style=flat)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-freitas-9b530624b/)
+
+[![youtube](https://img.shields.io/badge/Youtube-0A66C2?style=for-the-badge&color=white&logo=youtube&logoColor=red)](https://www.linkedin.com/in/pedro-freitas-9b530624b/)
+
+
+
+## Projects screenshots.
+
+![](https://i.imgur.com/vDCmxaK.png)
+
+![](https://i.imgur.com/qt374J5.png)
