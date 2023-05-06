@@ -13,6 +13,10 @@ In here, I post the projects that have been working on, and their descriptions.
 
 ![](https://img.shields.io/badge/-python-white?logo=python&logoColor=blue&style=flat)
 
+![](https://img.shields.io/badge/-HTML-white?logo=html5&logoColor=orange&style=flat)
+
+![](https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=blue&style=flat)
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-freitas-9b530624b/)
