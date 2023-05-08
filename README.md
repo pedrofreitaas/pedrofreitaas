@@ -9,7 +9,7 @@ In here, I post the projects that have been working on, and their descriptions.
 
 ## 🛠 Languages:
 
-![](https://img.shields.io/badge/-C++-white?logo=c%2B%2B&logoColor=purple&style=flat) ![](https://img.shields.io/badge/-python-white?logo=python&logoColor=blue&style=flat) ![](https://img.shields.io/badge/-HTML-white?logo=html5&logoColor=orange&style=flat) ![](https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=blue&style=flat)
+![](https://img.shields.io/badge/-C++-white?logo=c%2B%2B&logoColor=purple&style=flat) ![](https://img.shields.io/badge/-python-white?logo=python&logoColor=blue&style=flat) ![](https://img.shields.io/badge/-HTML-white?logo=html5&logoColor=orange&style=flat) ![](https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=blue&style=flat) ![](https://img.shields.io/badge/-Javascript-white?logo=javascript&logoColor=yellow&style=flat)
 
 
 ## 🔗 Links
