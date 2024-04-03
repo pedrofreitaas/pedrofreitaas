@@ -6,6 +6,9 @@ My name is Pedro Freitas and this is my github profile.
 ```
 In here, I post the projects that have been working on, and their descriptions.
 
+# My app on Google App Store (test phase):
+  [![myapp](https://img.shields.io/badge/My%20app-FA2BE3)](https://play.google.com/store/apps/details?id=com.freitaas.Peladas)
+
 ## My site:
   [![mysite](https://img.shields.io/badge/My%20site-8A2BE2)](https://pedrofreitaas-8bc7c.web.app)
 
