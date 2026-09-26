@@ -1,36 +1,78 @@
+<div align="center">
+  <h1>Pedro Freitas</h1>
+  <p>Software Engineer building web and AI systems with TypeScript and Python.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/pedro-freitas-9b530624b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://portifolio.pedrooliveira.dev.br/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  </p>
+</div>
 
-# My profile.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>About</h2>
+      <p>I build full-stack products, backend services, cloud infrastructure, and LLM-powered features.</p>
+      <p>My work spans recruitment platforms, customer support, file processing, automation, and AI-assisted developer tools.</p>
+      <p>Interested in high-impact software products and AI-enabled applications.</p>
+    </td>
+    <td width="40%" valign="top">
+      <pre lang="text">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⠀⠉⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⢀⢀⣀⣠⣀⣀⣠⡈⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣆⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣾⡥⠦⠬⠹⣿⣿⢏⣉⣍⣻⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣿⣷⣷⣾⣿⣿⣷⣿⣤⣮⣿⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢛⣋⣻⣙⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣛⣿⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠉⠙⠿⢿⣿⣿⠿⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠀⠈⠙⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⡿⠟⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿
+⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</pre>
+    </td>
+  </tr>
+</table>
 
-```bash
-My name is Pedro Freitas and this is my github profile.
-```
-In here, I post the projects that have been working on, and their descriptions.
+## Stack
 
-# My app on Google App Store (test phase):
-  [![myapp](https://img.shields.io/badge/My%20app-FA2BE3)](https://play.google.com/store/apps/details?id=com.freitaas.Peladas)
+<p align="center">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" />
+</p>
 
-## My site:
-  [![mysite](https://img.shields.io/badge/My%20site-8A2BE2)](https://pedrofreitaas-8bc7c.web.app)
+<p align="center">
+  TypeScript, React, Next.js, NestJS, Python, FastAPI, PostgreSQL, Redis, Docker, Kubernetes, GitHub Actions, AWS, GCP, and Azure.
+</p>
 
+## Selected Projects
 
-## 🛠 Languages:
+| Project | Description |
+| --- | --- |
+| [Ismart 2027](https://ps.ismart.org.br) | Public admissions portal for the Instituto Social para Motivar, Apoiar e Reconhecer Talentos. |
+| [Filewisp](https://filewisp.com) | Secure file sharing with protected links, expiring access, and AI-powered file search. |
+| [Astral](https://pedrofreitaas.github.io/astral/) | A personal game side project. |
+| [image-gen](https://github.com/pedrofreitaas/image-gen) | CLI for generating and editing images with OpenAI's image model. |
 
-![](https://img.shields.io/badge/-C++-white?logo=c%2B%2B&logoColor=purple&style=flat) ![](https://img.shields.io/badge/-python-white?logo=python&logoColor=blue&style=flat) ![](https://img.shields.io/badge/-HTML-white?logo=html5&logoColor=orange&style=flat) ![](https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=blue&style=flat) ![](https://img.shields.io/badge/-Javascript-white?logo=javascript&logoColor=yellow&style=flat)
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-freitas-9b530624b/)
-
-[![youtube](https://img.shields.io/badge/Youtube-0A66C2?style=for-the-badge&color=white&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCGT1t-GkbGRFpS6VqNRj8Dg)
-
-
-
-## Projects screenshots.
-
-![](https://i.imgur.com/vDCmxaK.png)
-
-![](https://i.imgur.com/qt374J5.png)
-
-![Alt text](https://i.imgur.com/r1JDL8I.png "Player running from forest wolfs")
-
-![Alt text](https://i.imgur.com/VoHtPEI.png "Water Priestess getting hit by meteor")
+<div align="center">
+  <sub>More work at <a href="https://portifolio.pedrooliveira.dev.br/">portifolio.pedrooliveira.dev.br</a></sub>
+</div>
