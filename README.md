@@ -73,7 +73,7 @@
 | --- | --- |
 | [Ismart 2027](https://ps.ismart.org.br) | Public admissions portal for the Instituto Social para Motivar, Apoiar e Reconhecer Talentos. |
 | [Filewisp](https://filewisp.com) | Secure file sharing with protected links, expiring access, and AI-powered file search. |
-| [Astral](https://pedrofreitaas.github.io/astral/) | A personal game side project. |
+| [Astral](https://pedrofreitaas.github.io/astral/) | A personal game side project, controlled entirely with a joystick. |
 | [image-gen](https://github.com/pedrofreitaas/image-gen) | CLI for generating and editing images with OpenAI's image model. |
 
 <div align="center">
